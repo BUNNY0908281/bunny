@@ -4,7 +4,7 @@ import threading
 from pathlib import Path
 
 # Telegram configuration
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8610040728:AAG3BVwlQKrjH1Y2BNKyYdR08z__3-geQ9o")
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8610040728:AAFOrCh2V-TPfJXWFqc6JY7ThCW8_mfnhuo")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "7665891917"))
 
 # Runtime configuration
